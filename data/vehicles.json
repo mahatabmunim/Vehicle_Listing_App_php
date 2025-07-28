@@ -1,0 +1,20 @@
+[
+    {
+        "name": "toyota brx",
+        "type": "car",
+        "price": "32688",
+        "image": "https:\/\/i.etsystatic.com\/41340875\/r\/il\/67b5eb\/4715093007\/il_1588xN.4715093007_e4o3.jpg"
+    },
+    {
+        "name": "Yamaha YZF-R1",
+        "type": "motorcycles",
+        "price": "23423",
+        "image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEgXXbVEk0qhZDpp1JctIaVO6X8EByKZWr9o2rPSGALUUIGYXQJabi37ae4iI7FbBbwjYXb0X3-E3T9faq_-clTG0SQG9J5jBqbB620eXzApOIf1TWFd73IDnz1l4QSD3_EXAkbj9dhsfvgO\/s320\/2012-Yamaha-YZF-R1-Black-Series.jpg"
+    },
+    {
+        "name": " Audi Race Silver Sport Car ",
+        "type": "car",
+        "price": "2345",
+        "image": "https:\/\/tse1.mm.bing.net\/th\/id\/OIP.w04z7F7Vho85zEj5WHPS6gHaE8?r=0&rs=1&pid=ImgDetMain&o=7&rm=3"
+    }
+]
